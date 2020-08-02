@@ -7,7 +7,6 @@ description xxxxxx!!!!!
 I am a boy. testing testing
 
 ## Local Development
- 1. Open up 
- 2. lets clash
+ 1. Open up
  
  
